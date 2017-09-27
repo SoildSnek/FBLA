@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
+<<<<<<< HEAD
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+=======
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+>>>>>>> parent of 61a4e9a... deleted
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context="com.example.tech.fbla.fbla">
 
+<<<<<<< HEAD
     <ImageView
         android:id="@+id/boop"
         android:layout_width="match_parent"
@@ -67,3 +72,6 @@
     </LinearLayout>
 
 </RelativeLayout>
+=======
+</LinearLayout>
+>>>>>>> parent of 61a4e9a... deleted
