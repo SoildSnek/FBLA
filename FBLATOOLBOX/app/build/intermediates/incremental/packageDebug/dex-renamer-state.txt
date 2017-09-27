@@ -1,0 +1,7 @@
+#Fri Sep 22 14:15:31 CDT 2017
+base.0=C\:\\Users\\tech\\AndroidStudioProjects\\fbla\\FBLATOOLBOX\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_ff86a6722eef9233cda620a448f248539b597beb
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\tech\\AndroidStudioProjects\\fbla\\FBLATOOLBOX\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ec54cba4773d6020ffe4eabb95418c397244b7b1\\classes.dex
+base.1=C\:\\Users\\tech\\AndroidStudioProjects\\fbla\\FBLATOOLBOX\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ec54cba4773d6020ffe4eabb95418c397244b7b1
+file.0=C\:\\Users\\tech\\AndroidStudioProjects\\fbla\\FBLATOOLBOX\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_ff86a6722eef9233cda620a448f248539b597beb\\classes.dex

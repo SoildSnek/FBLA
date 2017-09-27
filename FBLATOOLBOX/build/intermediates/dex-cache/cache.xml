@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\tech\AndroidStudioProjects\fbla\FBLATOOLBOX\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\tech\AndroidStudioProjects\fbla\FBLATOOLBOX\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_ff86a6722eef9233cda620a448f248539b597beb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tech\.android\build-cache\5b7aadbe220886dbbb1f4c33b933b61edc6b369c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\tech\AndroidStudioProjects\fbla\FBLATOOLBOX\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ff4091fcc6573ecc6391792eec3efa996d0ae730\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tech\.android\build-cache\c0f2dd29ba79731579d749d5c4bbce23eedc3c68\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\tech\AndroidStudioProjects\fbla\FBLATOOLBOX\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a07101d75c1362961c8f5d409a29e571eaedf37c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tech\.android\build-cache\9eb3eef51e37cb4610591e73031b344c395d7f40\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\tech\AndroidStudioProjects\fbla\FBLATOOLBOX\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ad30d2d1ad5af819df1f04b4556a980cd307e534\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tech\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\tech\AndroidStudioProjects\fbla\FBLATOOLBOX\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_9dd51fcb7525985edc442c1140f1912c0392e174\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tech\.android\build-cache\bc81f048a092ed0737b0b74a5824fe1cabcb0d9c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\tech\AndroidStudioProjects\fbla\FBLATOOLBOX\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_32eec96df5641785adaa785cdf85e9e48d201ccb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tech\.android\build-cache\a5190239642baec08bc19c9c2ffff0955d49e100\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\tech\AndroidStudioProjects\fbla\FBLATOOLBOX\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9dbe7a35867cd5fa2d7ff2f226bae46167f756ad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tech\.android\build-cache\6e9ed5625b108b16a84ecb801bc40ea97c5d35e1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\tech\AndroidStudioProjects\fbla\FBLATOOLBOX\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0a684cfe5345ed5b3a78974f396ac4d2b9ac9a47\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tech\.android\build-cache\66d3b0656e4d3886bb9db1c99b37b76684869aae\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\tech\AndroidStudioProjects\fbla\FBLATOOLBOX\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e8e6250cbe4743e98b770f48c9e8443703341d91\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tech\.android\build-cache\bdf61ec75c014d12aca289c7d1bc29face2d268e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\tech\AndroidStudioProjects\fbla\FBLATOOLBOX\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d6284daeaa6122052d019eabc8cfd0079e939a89\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tech\AndroidStudioProjects\fbla\FBLATOOLBOX\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e5187d014a85e777bcaac3fbc0bdc8a444512888">
+        <dex dex="C:\Users\tech\AndroidStudioProjects\fbla\FBLATOOLBOX\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_ec54cba4773d6020ffe4eabb95418c397244b7b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tech\.android\build-cache\6c7f8f1005f147084f7e204de54abc65d7a5c443\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\tech\AndroidStudioProjects\fbla\FBLATOOLBOX\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0dbcf4d811c4b51f7b49116f98bcca0cd557ba94\classes.dex" />
+    </item>
+
+</items>
