@@ -19,7 +19,7 @@
             android:layout_height="185dp"
             android:adjustViewBounds="true"
             android:cropToPadding="true"
-            app:srcCompat="@" />
+            app:srcCompat="@drawable/FBLA-banner" />
 
         <ImageView
             android:id="@+id/Background"
