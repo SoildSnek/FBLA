@@ -16,17 +16,34 @@
         <ImageView
             android:id="@+id/Banner"
             android:layout_width="match_parent"
-            android:layout_height="185dp"
+            android:layout_height="232dp"
             android:adjustViewBounds="true"
+            android:contentDescription="Fbla banner"
             android:cropToPadding="true"
-            app:srcCompat="@drawable/FBLA-banner" />
+            app:srcCompat="@drawable/banner" />
+
+
+        <Button
+            android:id="@+id/button2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="Calender"
+            android:text="Calender" />
+
+        <Button
+            android:id="@+id/button3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="Calender"
+            android:text="Calender2" />
 
         <ImageView
             android:id="@+id/Background"
             android:layout_width="match_parent"
-            android:layout_height="match_parent"
+            android:layout_height="334dp"
             android:adjustViewBounds="true"
             android:cropToPadding="false"
             app:srcCompat="@android:color/holo_blue_bright" />
+
     </LinearLayout>
 </RelativeLayout>
