@@ -8,6 +8,15 @@
     tools:context="com.example.tech.fblatoolbox.fbla">
 
 
+    <ImageView
+        android:id="@+id/Background"
+        android:layout_width="match_parent"
+        android:layout_height="334dp"
+        android:layout_alignParentBottom="true"
+        android:adjustViewBounds="true"
+        android:cropToPadding="false"
+        app:srcCompat="@android:color/black" />
+
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
@@ -23,27 +32,39 @@
             app:srcCompat="@drawable/banner" />
 
 
-        <Button
-            android:id="@+id/button2"
+        <LinearLayout
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:onClick="Calender"
-            android:text="Calender" />
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:weightSum="1">
 
-        <Button
-            android:id="@+id/button3"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:onClick="Calender"
-            android:text="Calender2" />
+            <Button
+                android:id="@+id/button2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="Calender"
+                android:text="Calender" />
 
-        <ImageView
-            android:id="@+id/Background"
-            android:layout_width="match_parent"
-            android:layout_height="334dp"
-            android:adjustViewBounds="true"
-            android:cropToPadding="false"
-            app:srcCompat="@android:color/holo_blue_bright" />
+            <Button
+                android:id="@+id/button3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="Calender"
+                android:text="BAA" />
+
+            <Button
+                android:id="@+id/button"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Event Flow Chart" />
+
+            <Button
+                android:id="@+id/button4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Event List" />
+
+        </LinearLayout>
 
     </LinearLayout>
 </RelativeLayout>
