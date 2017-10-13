@@ -16,11 +16,25 @@ public class fbla extends AppCompatActivity {
 
 
     }
-    public void Calender(View view) {
-       Intent i = new Intent(this, Calender.class);
+    public void Baa(View view) {
+        Intent i = new Intent(this, BaaActivity.class);
         startActivity(i);
     }
 
+    public void EventFlowChart(View view) {
+        Intent i = new Intent(this, EventFCActivity.class);
+        startActivity(i);
+    }
+
+    public void Events(View view) {
+        Intent i = new Intent(this, Events.class);
+        startActivity(i);
+    }
+
+    public void Calender(View view) {
+        Intent i = new Intent(this, Calender.class);
+        startActivity(i);
+    }
 
 
 

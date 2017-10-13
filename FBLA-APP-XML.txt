@@ -49,19 +49,21 @@
                 android:id="@+id/button3"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:onClick="Calender"
+                android:onClick="Baa"
                 android:text="BAA" />
 
             <Button
                 android:id="@+id/button"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:onClick="EventFlowChart"
                 android:text="Event Flow Chart" />
 
             <Button
                 android:id="@+id/button4"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:onClick="Events"
                 android:text="Event List" />
 
         </LinearLayout>
